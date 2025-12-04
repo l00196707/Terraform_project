@@ -3,3 +3,5 @@
 *.tfstate*
 *.tfplan
 .terraform.lock.hcl
+
+.aws/
